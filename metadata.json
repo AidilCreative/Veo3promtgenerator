@@ -1,0 +1,6 @@
+
+{
+  "name": "Veo 3 Prompt Generator by Aidil Creative",
+  "description": "A tool to help users generate structured prompts for the hypothetical Veo 3 model, focusing on character consistency and detailed scene descriptions. Users can input character details, actions, scene settings, art styles, and camera parameters to create comprehensive prompts.",
+  "requestFramePermissions": []
+}
